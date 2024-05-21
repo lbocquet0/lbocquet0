@@ -40,16 +40,12 @@
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-52b5f7?style=for-the-badge&logo=visual-studio-code&color=blue)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=visual-studio-code&color=blue)
 
 ### Design
-
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-52b5f7?style=for-the-badge&logo=adobe-photoshop&color=blue)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-52b5f7?style=for-the-badge&logo=adobe-illustrator&color=orange)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-52b5f7?style=for-the-badge&logo=adobe-after-effects&color=red)
-
 
 ### Tools
-
 ![Git](https://img.shields.io/badge/Git-52b5f7?style=for-the-badge&logo=git&color=red)
 ![GitHub](https://img.shields.io/badge/GitHub-52b5f7?style=for-the-badge&logo=github&color=black)
 ![GitLab](https://img.shields.io/badge/GitLab-52b5f7?style=for-the-badge&logo=gitlab&color=orange)
@@ -78,12 +74,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=00FFFF&size=25&center=true&vCenter=true&width=500&height=50&lines=Contact+Me)](https://git.io/typing-svg)
 
 [![Discord](https://img.shields.io/badge/Discord-52b5f7?style=for-the-badge&logo=discord&color=blue)](https://discord.com/users/852000000000000000)
-[![Twitter](https://img.shields.io/badge/Twitter-52b5f7?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/none)
-[![Instagram](https://img.shields.io/badge/Instagram-52b5f7?style=for-the-badge&logo=instagram&color=blue)](https://www.instagram.com/none/)
-[![Twitch](https://img.shields.io/badge/Twitch-52b5f7?style=for-the-badge&logo=twitch&color=blue)](https://www.twitch.tv/none)
-[![YouTube](https://img.shields.io/badge/YouTube-52b5f7?style=for-the-badge&logo=youtube&color=blue)](https://www.youtube.com/channel/UC)
-[![Spotify](https://img.shields.io/badge/Spotify-52b5f7?style=for-the-badge&logo=spotify&color=blue)](https://open.spotify.com/user/none)
-
 
 <!---
 # 📦 Support
