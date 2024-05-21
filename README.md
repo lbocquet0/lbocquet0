@@ -64,7 +64,6 @@
 
 ## Learning Technology
 ![TypeScript](https://img.shields.io/badge/TypeScript-52b5f7?style=for-the-badge&logo=typescript&color=blue)
-![Docker](https://img.shields.io/badge/Docker-52b5f7?style=for-the-badge&logo=docker&color=blue)
 ![Java](https://img.shields.io/badge/Java-52b5f7?style=for-the-badge&logo=java&color=red)
 ![Lua](https://img.shields.io/badge/Lua-52b5f7?style=for-the-badge&logo=lua&color=blue)
 
@@ -86,7 +85,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-52b5f7?style=for-the-badge&logo=spotify&color=blue)](https://open.spotify.com/user/none)
 
 
-
+<!---
 # 📦 Support
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=00FFFF&size=25&center=true&vCenter=true&width=500&height=50&lines=Support+Me)](https://git.io/typing-svg)
 
@@ -99,22 +98,6 @@
 
 
 
-# 📜 License
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=00FFFF&size=25&center=true&vCenter=true&width=500&height=50&lines=License)](https://git.io/typing-svg)
-
-[![MIT](https://img.shields.io/badge/MIT-52b5f7?style=for-the-badge&logo=mit&color=blue)](https://opensource.org/licenses/MIT)
-[![GNU GPLv3](https://img.shields.io/badge/GNU%20GPLv3-52b5f7?style=for-the-badge&logo=gnu&color=blue)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![Apache 2.0](https://img.shields.io/badge/Apache%202.0-52b5f7?style=for-the-badge&logo=apache&color=blue)](https://www.apache.org/licenses/LICENSE-2.0)
-[![BSD 3-Clause](https://img.shields.io/badge/BSD%203--Clause-52b5f7?style=for-the-badge&logo=bsd&color=blue)](https://opensource.org/licenses/BSD-3-Clause)
-[![CC BY 4.0](https://img.shields.io/badge/CC%20BY%204.0-52b5f7?style=for-the-badge&logo=creative-commons&color=blue)](https://creativecommons.org/licenses/by/4.0)
-[![CC BY-SA 4.0](https://img.shields.io/badge/CC%20BY--SA%204.0-52b5f7?style=for-the-badge&logo=creative-commons&color=blue)](https://creativecommons.org/licenses/by-sa/4.0)
-[![CC BY-NC 4.0](https://img.shields.io/badge/CC%20BY--NC%204.0-52b5f7?style=for-the-badge&logo=creative-commons&color=blue)](https://creativecommons.org/licenses/by-nc/4.0)
-[![CC BY-ND 4.0](https://img.shields.io/badge/CC%20BY--ND%204.0-52b5f7?style=for-the-badge&logo=creative-commons&color=blue)](https://creativecommons.org/licenses/by-nd/4.0)
-[![CC BY-NC-SA 4.0](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-52b5f7?style=for-the-badge&logo=creative-commons&color=blue)](https://creativecommons.org/licenses/by-nc-sa/4.0)
-[![CC BY-NC-ND 4.0](https://img.shields.io/badge/CC%20BY--NC--ND%204.0-52b5f7?style=for-the-badge&logo=creative-commons&color=blue)](https://creativecommons.org/licenses/by-nc-nd/4.0)
-
-
-<!---
 lbocquet0/lbocquet0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
