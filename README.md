@@ -2,7 +2,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00FFFF&random=false&center=true&width=435&lines=A+world+full+of+code)](https://git.io/typing-svg)
 
 
-<img align='right' src='https://media.giphy.com/media/3o7TKz5vVU5E2v7xLm/giphy.gif' width='380"'>
+<img align='right' src='https://i.pinimg.com/originals/70/ae/b8/70aeb85e5611e1a0e7f9a9e1b4c8760b.gif' width='380"'>
 
 ### About Me
 - `💎` Stage 18 (He/Him)
