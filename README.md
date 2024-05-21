@@ -40,7 +40,7 @@
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-52b5f7?style=for-the-badge&logo=visual-studio-code&color=blue)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=visual-studio-code&color=blue)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&color=blue)
 
 ### Design
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-52b5f7?style=for-the-badge&logo=adobe-photoshop&color=blue)
@@ -53,15 +53,15 @@
 
 ### Technology
 ![MongoDB](https://img.shields.io/badge/MongoDB-52b5f7?style=for-the-badge&logo=mongodb&color=green)
-![MySQL](https://img.shields.io/badge/MySQL-52b5f7?style=for-the-badge&logo=mysql&color=blue)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Framework
 ![Node.js](https://img.shields.io/badge/Node.js-52b5f7?style=for-the-badge&logo=node.js&color=green)
 
 ## Learning Technology
-![TypeScript](https://img.shields.io/badge/TypeScript-52b5f7?style=for-the-badge&logo=typescript&color=blue)
-![Java](https://img.shields.io/badge/Java-52b5f7?style=for-the-badge&logo=java&color=red)
-![Lua](https://img.shields.io/badge/Lua-52b5f7?style=for-the-badge&logo=lua&color=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-52b5f7?style=for-the-badge&logo=typescript&color=yellow&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&color=red&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-52b5f7?style=for-the-badge&logo=lua&color=blue&logoColor=white)
 
 
 # 📚 Projects
