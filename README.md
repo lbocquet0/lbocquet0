@@ -6,11 +6,9 @@
 
 ### About Me
 - `💎` Stage 18 (He/Him)
-- `👀` I’m interested in ...
-- `🌱` I’m currently learning ...
-- `💞️` I’m looking to collaborate on ...
-- `📫` How to reach me ...
-- `⚡` Fun fact: ...
+- `👀` I’m interested in **cybersecurity, web development, AI, and gaming**
+- `🌱` I’m currently learning **React.js**
+- `✨` Fun fact: **I also occasionally write short works of fiction**
 
 <br>
 
@@ -66,8 +64,8 @@
 
 # 📚 Projects
 
-### [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![lbocquet0's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbocquet0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 # 📞 Contact
