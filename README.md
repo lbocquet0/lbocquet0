@@ -64,7 +64,7 @@
 
 # 📚 Projects
 
-[![Scrabble Game](https://github-readme-stats.vercel.app/api/pin/?username=lbocquet&repo=scrabble)](https://github.com/anuraghazra/github-readme-stats)
+[![Scrabble Game](https://github-readme-stats.vercel.app/api/pin/?username=lbocquet0&repo=scrabble)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
